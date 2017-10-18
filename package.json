@@ -1,0 +1,23 @@
+{
+  "name": "workdays-test-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keeper",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.1",
+    "lodash": "^4.17.4",
+    "minimist": "^1.2.0",
+    "moment": "^2.19.0",
+    "mongoose": "^4.12.0",
+    "morgan": "^1.9.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
